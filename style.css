@@ -51,9 +51,21 @@ nav div ul li {
 }
 
 .hero-text p {
-    font-size: 12px;
+    font-size: 13px;
 }
 
-.contact-me h6 {
+.card {
+    background-color: rgba(151, 151, 151, 0.753);
+    background-image: url(./images/contactme.jpg);
+    height: 40%; 
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+footer {
     color: black;
 }
