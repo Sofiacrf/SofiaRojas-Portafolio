@@ -21,7 +21,7 @@ The current website shows my work, in order to prove my skills, professionalism 
 
  ## Contributors
  The following website was made by Sofía Rojas
- Github: Sofiacrf
+ Github: https://www.github.com/Sofiacrf
  LinkedIn: https://www.linkedin.com/in/sofiacarf/
  Website: https://rojastechnologies.com/
 
